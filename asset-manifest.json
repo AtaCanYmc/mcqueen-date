@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/mcqueen-date/static/css/main.f855e6bc.css",
-    "main.js": "/mcqueen-date/static/js/main.e77d7d40.js",
+    "main.css": "/mcqueen-date/static/css/main.7d72cf6d.css",
+    "main.js": "/mcqueen-date/static/js/main.5187cbaf.js",
     "static/js/453.f463c9a5.chunk.js": "/mcqueen-date/static/js/453.f463c9a5.chunk.js",
     "static/media/Lightning_McQueen.png": "/mcqueen-date/static/media/Lightning_McQueen.05d2101c6249711b7a58.png",
     "static/media/BenHızlıyım.mp3": "/mcqueen-date/static/media/BenHızlıyım.d36507a81c74e6037970.mp3",
     "index.html": "/mcqueen-date/index.html",
-    "main.f855e6bc.css.map": "/mcqueen-date/static/css/main.f855e6bc.css.map",
-    "main.e77d7d40.js.map": "/mcqueen-date/static/js/main.e77d7d40.js.map",
+    "main.7d72cf6d.css.map": "/mcqueen-date/static/css/main.7d72cf6d.css.map",
+    "main.5187cbaf.js.map": "/mcqueen-date/static/js/main.5187cbaf.js.map",
     "453.f463c9a5.chunk.js.map": "/mcqueen-date/static/js/453.f463c9a5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.e77d7d40.js"
+    "static/css/main.7d72cf6d.css",
+    "static/js/main.5187cbaf.js"
   ]
 }
